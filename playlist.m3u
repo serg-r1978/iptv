@@ -1,0 +1,262 @@
+#EXTM3U
+http://api.iptv.is74.ru/minibox/live/2601.m3u8?token=4315b31cee95c311d89d37da07a7fba0&device_id=
+#EXTINF:0, Первый канал HD
+http://api.iptv.is74.ru/minibox/live/560.m3u8?token=4315b31cee95c311d89d37da07a7fba0&device_id=
+#EXTINF:0, Россия 1 HD
+http://api.iptv.is74.ru/minibox/live/561.m3u8?token=4315b31cee95c311d89d37da07a7fba0&device_id=
+#EXTINF:0, НТВ
+http://api.iptv.is74.ru/minibox/live/2344.m3u8?token=4315b31cee95c311d89d37da07a7fba0&device_id=
+#EXTINF:0, Петербург - 5 канал
+http://api.iptv.is74.ru/minibox/live/2203.m3u8?token=4315b31cee95c311d89d37da07a7fba0&device_id=
+#EXTINF:0, Россия 24
+http://api.iptv.is74.ru/minibox/live/2347.m3u8?token=4315b31cee95c311d89d37da07a7fba0&device_id=
+#EXTINF:0, Карусель
+http://api.iptv.is74.ru/minibox/live/2205.m3u8?token=4315b31cee95c311d89d37da07a7fba0&device_id=
+#EXTINF:0, ОТР
+http://api.iptv.is74.ru/minibox/live/2501.m3u8?token=4315b31cee95c311d89d37da07a7fba0&device_id=
+#EXTINF:0, ТВ Центр
+http://api.iptv.is74.ru/minibox/live/2221.m3u8?token=4315b31cee95c311d89d37da07a7fba0&device_id=
+#EXTINF:0, РЕН ТВ
+http://api.iptv.is74.ru/minibox/live/2207.m3u8?token=4315b31cee95c311d89d37da07a7fba0&device_id=
+#EXTINF:0, СТС
+http://api.iptv.is74.ru/minibox/live/2209.m3u8?token=4315b31cee95c311d89d37da07a7fba0&device_id=
+#EXTINF:0, Домашний
+http://api.iptv.is74.ru/minibox/live/2210.m3u8?token=4315b31cee95c311d89d37da07a7fba0&device_id=
+#EXTINF:0, ТВ3
+http://api.iptv.is74.ru/minibox/live/2211.m3u8?token=4315b31cee95c311d89d37da07a7fba0&device_id=
+#EXTINF:0, Пятница
+http://api.iptv.is74.ru/minibox/live/2356.m3u8?token=4315b31cee95c311d89d37da07a7fba0&device_id=
+#EXTINF:0, Звезда
+http://api.iptv.is74.ru/minibox/live/1299.m3u8?token=4315b31cee95c311d89d37da07a7fba0&device_id=
+#EXTINF:0, Мир
+http://api.iptv.is74.ru/minibox/live/2213.m3u8?token=4315b31cee95c311d89d37da07a7fba0&device_id=
+#EXTINF:0, ТНТ
+http://api.iptv.is74.ru/minibox/live/2359.m3u8?token=4315b31cee95c311d89d37da07a7fba0&device_id=
+#EXTINF:0, Муз
+http://api.iptv.is74.ru/minibox/live/2215.m3u8?token=4315b31cee95c311d89d37da07a7fba0&device_id=
+#EXTINF:0, ОТВ Екатеринбург
+http://api.iptv.is74.ru/minibox/live/1019.m3u8?token=4315b31cee95c311d89d37da07a7fba0&device_id=
+#EXTINF:0, ТВ- Богданович
+http://api.iptv.is74.ru/minibox/live/2601.m3u8?token=4315b31cee95c311d89d37da07a7fba0&device_id=
+#EXTINF:0, Viasat Explore HD
+http://api.iptv.is74.ru/minibox/live/1799.m3u8?token=4315b31cee95c311d89d37da07a7fba0&device_id=
+#EXTINF:0, Viasat History HD
+http://api.iptv.is74.ru/minibox/live/1800.m3u8?token=4315b31cee95c311d89d37da07a7fba0&device_id=
+#EXTINF:0, ПОБЕДА HD
+http://api.iptv.is74.ru/minibox/live/2261.m3u8?token=4315b31cee95c311d89d37da07a7fba0&device_id=
+#EXTINF:0, РИМ HD
+http://api.iptv.is74.ru/minibox/live/859.m3u8?token=4315b31cee95c311d89d37da07a7fba0&device_id=
+#EXTINF:0, 31 канал HD
+http://api.iptv.is74.ru/minibox/live/11.m3u8?token=4315b31cee95c311d89d37da07a7fba0&device_id=
+#EXTINF:0, Звезда Плюс HD
+http://api.iptv.is74.ru/minibox/live/10042.m3u8?token=4315b31cee95c311d89d37da07a7fba0&device_id=
+#EXTINF:0, СОЛОВЬЁВLIVE
+http://api.iptv.is74.ru/minibox/live/10130.m3u8?token=4315b31cee95c311d89d37da07a7fba0&device_id=
+#EXTINF:0, Приключения HD
+http://api.iptv.is74.ru/minibox/live/86.m3u8?token=4315b31cee95c311d89d37da07a7fba0&device_id=
+#EXTINF:0, Travel+Adventure HD
+http://api.iptv.is74.ru/minibox/live/26.m3u8?token=4315b31cee95c311d89d37da07a7fba0&device_id=
+#EXTINF:0, Поехали! HD
+http://api.iptv.is74.ru/minibox/live/2100.m3u8?token=4315b31cee95c311d89d37da07a7fba0&device_id=
+#EXTINF:0, Арсенал HD
+http://api.iptv.is74.ru/minibox/live/10077.m3u8?token=4315b31cee95c311d89d37da07a7fba0&device_id=
+#EXTINF:0, KHL HD
+http://api.iptv.is74.ru/minibox/live/10082.m3u8?token=4315b31cee95c311d89d37da07a7fba0&device_id=
+#EXTINF:0, Первый Космический HD
+http://api.iptv.is74.ru/minibox/live/1059.m3u8?token=4315b31cee95c311d89d37da07a7fba0&device_id=
+#EXTINF:0, Живая Планета
+http://api.iptv.is74.ru/minibox/live/10075.m3u8?token=4315b31cee95c311d89d37da07a7fba0&device_id=
+#EXTINF:0, Cinema HD
+http://api.iptv.is74.ru/minibox/live/10076.m3u8?token=4315b31cee95c311d89d37da07a7fba0&device_id=
+#EXTINF:0, HD Life
+http://api.iptv.is74.ru/minibox/live/2562.m3u8?token=4315b31cee95c311d89d37da07a7fba0&device_id=
+#EXTINF:0, В мире животных HD
+http://api.iptv.is74.ru/minibox/live/1060.m3u8?token=4315b31cee95c311d89d37da07a7fba0&device_id=
+#EXTINF:0, История
+http://api.iptv.is74.ru/minibox/live/860.m3u8?token=4315b31cee95c311d89d37da07a7fba0&device_id=
+#EXTINF:0, Зоо ТВ
+http://api.iptv.is74.ru/minibox/live/10009.m3u8?token=4315b31cee95c311d89d37da07a7fba0&device_id=
+#EXTINF:0, RTG HD
+http://api.iptv.is74.ru/minibox/live/1459.m3u8?token=4315b31cee95c311d89d37da07a7fba0&device_id=
+#EXTINF:0, Galaxy HD
+http://api.iptv.is74.ru/minibox/live/1600.m3u8?token=4315b31cee95c311d89d37da07a7fba0&device_id=
+#EXTINF:0, Моя Планета HD
+http://api.iptv.is74.ru/minibox/live/186.m3u8?token=4315b31cee95c311d89d37da07a7fba0&device_id=
+#EXTINF:0, Наука HD
+http://api.iptv.is74.ru/minibox/live/299.m3u8?token=4315b31cee95c311d89d37da07a7fba0&device_id=
+#EXTINF:0, МУЖСКОЕ КИНО HD
+http://api.iptv.is74.ru/minibox/live/1359.m3u8?token=4315b31cee95c311d89d37da07a7fba0&device_id=
+#EXTINF:0, НАШЕ НОВОЕ КИНО HD
+http://api.iptv.is74.ru/minibox/live/1939.m3u8?token=4315b31cee95c311d89d37da07a7fba0&device_id=
+#EXTINF:0, КИНОСЕРИЯ HD
+http://api.iptv.is74.ru/minibox/live/248.m3u8?token=4315b31cee95c311d89d37da07a7fba0&device_id=
+#EXTINF:0, TV1000 HD
+http://api.iptv.is74.ru/minibox/live/1779.m3u8?token=4315b31cee95c311d89d37da07a7fba0&device_id=
+#EXTINF:0, TV1000 Action HD
+http://api.iptv.is74.ru/minibox/live/1783.m3u8?token=4315b31cee95c311d89d37da07a7fba0&device_id=
+#EXTINF:0, TV1000 Русское Кино HD
+http://api.iptv.is74.ru/minibox/live/1782.m3u8?token=4315b31cee95c311d89d37da07a7fba0&device_id=
+#EXTINF:0, Дом Кино
+http://api.iptv.is74.ru/minibox/live/40.m3u8?token=4315b31cee95c311d89d37da07a7fba0&device_id=
+#EXTINF:0, ДОМ КИНО ПРЕМИУМ HD
+http://api.iptv.is74.ru/minibox/live/1440.m3u8?token=4315b31cee95c311d89d37da07a7fba0&device_id=
+#EXTINF:0, Иллюзион+ HD
+http://api.iptv.is74.ru/minibox/live/602.m3u8?token=4315b31cee95c311d89d37da07a7fba0&device_id=
+#EXTINF:0, Русский иллюзион HD
+http://api.iptv.is74.ru/minibox/live/246.m3u8?token=4315b31cee95c311d89d37da07a7fba0&device_id=
+#EXTINF:0, КИНОУЖАС HD
+http://api.iptv.is74.ru/minibox/live/2561.m3u8?token=4315b31cee95c311d89d37da07a7fba0&device_id=
+#EXTINF:0, НСТ
+http://api.iptv.is74.ru/minibox/live/603.m3u8?token=4315b31cee95c311d89d37da07a7fba0&device_id=
+#EXTINF:0, TV XXI
+http://api.iptv.is74.ru/minibox/live/604.m3u8?token=4315b31cee95c311d89d37da07a7fba0&device_id=
+#EXTINF:0, Plan B HD
+http://api.iptv.is74.ru/minibox/live/10008.m3u8?token=4315b31cee95c311d89d37da07a7fba0&device_id=
+#EXTINF:0, AMEDIA HIT HD
+http://api.iptv.is74.ru/minibox/live/1519.m3u8?token=4315b31cee95c311d89d37da07a7fba0&device_id=
+#EXTINF:0, AMEDIA 1 HD
+http://api.iptv.is74.ru/minibox/live/739.m3u8?token=4315b31cee95c311d89d37da07a7fba0&device_id=
+#EXTINF:0, AMEDIA 2 HD
+http://api.iptv.is74.ru/minibox/live/2742.m3u8?token=4315b31cee95c311d89d37da07a7fba0&device_id=
+#EXTINF:0, Киномикс HD
+http://api.iptv.is74.ru/minibox/live/1940.m3u8?token=4315b31cee95c311d89d37da07a7fba0&device_id=
+#EXTINF:0, Русский детектив
+http://api.iptv.is74.ru/minibox/live/1200.m3u8?token=4315b31cee95c311d89d37da07a7fba0&device_id=
+#EXTINF:0, КИНО ТВ HD
+http://api.iptv.is74.ru/minibox/live/1640.m3u8?token=4315b31cee95c311d89d37da07a7fba0&device_id=
+#EXTINF:0, Индия HD
+http://api.iptv.is74.ru/minibox/live/423.m3u8?token=4315b31cee95c311d89d37da07a7fba0&device_id=
+#EXTINF:0, ИНДИЙСКОЕ КИНО
+http://api.iptv.is74.ru/minibox/live/420.m3u8?token=4315b31cee95c311d89d37da07a7fba0&device_id=
+#EXTINF:0, КИНОКОМЕДИЯ HD
+http://api.iptv.is74.ru/minibox/live/46.m3u8?token=4315b31cee95c311d89d37da07a7fba0&device_id=
+#EXTINF:0, ТНТ4
+http://api.iptv.is74.ru/minibox/live/252.m3u8?token=4315b31cee95c311d89d37da07a7fba0&device_id=
+#EXTINF:0, Ю
+http://api.iptv.is74.ru/minibox/live/79.m3u8?token=4315b31cee95c311d89d37da07a7fba0&device_id=
+#EXTINF:0, 2x2
+http://api.iptv.is74.ru/minibox/live/55.m3u8?token=4315b31cee95c311d89d37da07a7fba0&device_id=
+#EXTINF:0, Еврокино HD
+http://api.iptv.is74.ru/minibox/live/2242.m3u8?token=4315b31cee95c311d89d37da07a7fba0&device_id=
+#EXTINF:0, Русский роман HD
+http://api.iptv.is74.ru/minibox/live/1639.m3u8?token=4315b31cee95c311d89d37da07a7fba0&device_id=
+#EXTINF:0, КИНОСВИДАНИЕ HD
+http://api.iptv.is74.ru/minibox/live/2741.m3u8?token=4315b31cee95c311d89d37da07a7fba0&device_id=
+#EXTINF:0, Бобер
+http://api.iptv.is74.ru/minibox/live/1179.m3u8?token=4315b31cee95c311d89d37da07a7fba0&device_id=
+#EXTINF:0, Охотник и рыболов HD
+http://api.iptv.is74.ru/minibox/live/1061.m3u8?token=4315b31cee95c311d89d37da07a7fba0&device_id=
+#EXTINF:0, Моя стихия HD
+http://api.iptv.is74.ru/minibox/live/1999.m3u8?token=4315b31cee95c311d89d37da07a7fba0&device_id=
+#EXTINF:0, 365 дней ТВ HD
+http://api.iptv.is74.ru/minibox/live/10088.m3u8?token=4315b31cee95c311d89d37da07a7fba0&device_id=
+#EXTINF:0, KHL
+http://api.iptv.is74.ru/minibox/live/72.m3u8?token=4315b31cee95c311d89d37da07a7fba0&device_id=
+#EXTINF:0, Живи! HD
+http://api.iptv.is74.ru/minibox/live/160.m3u8?token=4315b31cee95c311d89d37da07a7fba0&device_id=
+#EXTINF:0, Охота и рыбалка
+http://api.iptv.is74.ru/minibox/live/73.m3u8?token=4315b31cee95c311d89d37da07a7fba0&device_id=
+#EXTINF:0, Рыболов
+http://api.iptv.is74.ru/minibox/live/257.m3u8?token=4315b31cee95c311d89d37da07a7fba0&device_id=
+#EXTINF:0, Драйв
+http://api.iptv.is74.ru/minibox/live/74.m3u8?token=4315b31cee95c311d89d37da07a7fba0&device_id=
+#EXTINF:0, Авто Плюс HD
+http://api.iptv.is74.ru/minibox/live/34.m3u8?token=4315b31cee95c311d89d37da07a7fba0&device_id=
+#EXTINF:0, Оружие
+http://api.iptv.is74.ru/minibox/live/259.m3u8?token=4315b31cee95c311d89d37da07a7fba0&device_id=
+#EXTINF:0, ЧЕ! Телеканал
+http://api.iptv.is74.ru/minibox/live/16.m3u8?token=4315b31cee95c311d89d37da07a7fba0&device_id=
+#EXTINF:0, Авто 24 HD
+http://api.iptv.is74.ru/minibox/live/1339.m3u8?token=4315b31cee95c311d89d37da07a7fba0&device_id=
+#EXTINF:0, Дорама HD
+http://api.iptv.is74.ru/minibox/live/2079.m3u8?token=4315b31cee95c311d89d37da07a7fba0&device_id=
+#EXTINF:0, Суббота!
+http://api.iptv.is74.ru/minibox/live/2139.m3u8?token=4315b31cee95c311d89d37da07a7fba0&device_id=
+#EXTINF:0, СТС Love
+http://api.iptv.is74.ru/minibox/live/839.m3u8?token=4315b31cee95c311d89d37da07a7fba0&device_id=
+#EXTINF:0, КВН ТВ
+http://api.iptv.is74.ru/minibox/live/2140.m3u8?token=4315b31cee95c311d89d37da07a7fba0&device_id=
+#EXTINF:0, Родное кино
+http://api.iptv.is74.ru/minibox/live/1441.m3u8?token=4315b31cee95c311d89d37da07a7fba0&device_id=
+#EXTINF:0, Мосфильм. Золотая коллекция HD
+http://api.iptv.is74.ru/minibox/live/10006.m3u8?token=4315b31cee95c311d89d37da07a7fba0&device_id=
+#EXTINF:0, Солнце
+http://api.iptv.is74.ru/minibox/live/36.m3u8?token=4315b31cee95c311d89d37da07a7fba0&device_id=
+#EXTINF:0, Ani
+http://api.iptv.is74.ru/minibox/live/1199.m3u8?token=4315b31cee95c311d89d37da07a7fba0&device_id=
+#EXTINF:0, 1HD Music Television
+http://api.iptv.is74.ru/minibox/live/880.m3u8?token=4315b31cee95c311d89d37da07a7fba0&device_id=
+#EXTINF:0, ЖАРА HD
+http://api.iptv.is74.ru/minibox/live/699.m3u8?token=4315b31cee95c311d89d37da07a7fba0&device_id=
+#EXTINF:0, Музыка Первого
+http://api.iptv.is74.ru/minibox/live/1139.m3u8?token=4315b31cee95c311d89d37da07a7fba0&device_id=
+#EXTINF:0, RU.TV HD
+http://api.iptv.is74.ru/minibox/live/161.m3u8?token=4315b31cee95c311d89d37da07a7fba0&device_id=
+#EXTINF:0, Europa Plus TV HD
+http://api.iptv.is74.ru/minibox/live/254.m3u8?token=4315b31cee95c311d89d37da07a7fba0&device_id=
+#EXTINF:0, ТНТ Music
+http://api.iptv.is74.ru/minibox/live/52.m3u8?token=4315b31cee95c311d89d37da07a7fba0&device_id=
+#EXTINF:0, Bridge TV Русский хит
+http://api.iptv.is74.ru/minibox/live/255.m3u8?token=4315b31cee95c311d89d37da07a7fba0&device_id=
+#EXTINF:0, BRIDGE TV HITS
+http://api.iptv.is74.ru/minibox/live/620.m3u8?token=4315b31cee95c311d89d37da07a7fba0&device_id=
+#EXTINF:0, Bridge TV
+http://api.iptv.is74.ru/minibox/live/159.m3u8?token=4315b31cee95c311d89d37da07a7fba0&device_id=
+#EXTINF:0, RUSSIAN MUSICBOX HD
+http://api.iptv.is74.ru/minibox/live/609.m3u8?token=4315b31cee95c311d89d37da07a7fba0&device_id=
+#EXTINF:0, BRIDGE TV ШЛЯГЕР
+http://api.iptv.is74.ru/minibox/live/10092.m3u8?token=4315b31cee95c311d89d37da07a7fba0&device_id=
+#EXTINF:0, Телеканал РБК
+http://api.iptv.is74.ru/minibox/live/50.m3u8?token=4315b31cee95c311d89d37da07a7fba0&device_id=
+#EXTINF:0, МИР 24 HD
+http://api.iptv.is74.ru/minibox/live/2461.m3u8?token=4315b31cee95c311d89d37da07a7fba0&device_id=
+#EXTINF:0, Известия HD
+http://api.iptv.is74.ru/minibox/live/1879.m3u8?token=4315b31cee95c311d89d37da07a7fba0&device_id=
+#EXTINF:0, RT HD
+http://api.iptv.is74.ru/minibox/live/593.m3u8?token=4315b31cee95c311d89d37da07a7fba0&device_id=
+#EXTINF:0, RTДок HD
+http://api.iptv.is74.ru/minibox/live/588.m3u8?token=4315b31cee95c311d89d37da07a7fba0&device_id=
+#EXTINF:0, Мультимузыка
+http://api.iptv.is74.ru/minibox/live/10081.m3u8?token=4315b31cee95c311d89d37da07a7fba0&device_id=
+#EXTINF:0, Еда HD
+http://api.iptv.is74.ru/minibox/live/479.m3u8?token=4315b31cee95c311d89d37da07a7fba0&device_id=
+#EXTINF:0, Телекафе
+http://api.iptv.is74.ru/minibox/live/598.m3u8?token=4315b31cee95c311d89d37da07a7fba0&device_id=
+#EXTINF:0, Кухня HD
+http://api.iptv.is74.ru/minibox/live/249.m3u8?token=4315b31cee95c311d89d37da07a7fba0&device_id=
+#EXTINF:0, Лапки LIVE HD
+http://api.iptv.is74.ru/minibox/live/10133.m3u8?token=4315b31cee95c311d89d37da07a7fba0&device_id=
+#EXTINF:0, ТНВ
+http://api.iptv.is74.ru/minibox/live/118.m3u8?token=4315b31cee95c311d89d37da07a7fba0&device_id=
+#EXTINF:0, БСТ
+http://api.iptv.is74.ru/minibox/live/115.m3u8?token=4315b31cee95c311d89d37da07a7fba0&device_id=
+#EXTINF:0, Ностальгия
+http://api.iptv.is74.ru/minibox/live/56.m3u8?token=4315b31cee95c311d89d37da07a7fba0&device_id=
+#EXTINF:0, Большая Азия HD
+http://api.iptv.is74.ru/minibox/live/2099.m3u8?token=4315b31cee95c311d89d37da07a7fba0&device_id=
+#EXTINF:0, Карусель HD
+http://api.iptv.is74.ru/minibox/live/10080.m3u8?token=4315b31cee95c311d89d37da07a7fba0&device_id=
+#EXTINF:0, Т24
+http://api.iptv.is74.ru/minibox/live/10078.m3u8?token=4315b31cee95c311d89d37da07a7fba0&device_id=
+#EXTINF:0, Русский Экстрим HD
+http://api.iptv.is74.ru/minibox/live/33.m3u8?token=4315b31cee95c311d89d37da07a7fba0&device_id=
+#EXTINF:0, Cartoon Classics
+http://api.iptv.is74.ru/minibox/live/10131.m3u8?token=4315b31cee95c311d89d37da07a7fba0&device_id=
+#EXTINF:0, Детский HD
+http://api.iptv.is74.ru/minibox/live/242.m3u8?token=4315b31cee95c311d89d37da07a7fba0&device_id=
+#EXTINF:0, Мультиландия HD
+http://api.iptv.is74.ru/minibox/live/439.m3u8?token=4315b31cee95c311d89d37da07a7fba0&device_id=
+#EXTINF:0, СуперГерои HD
+http://api.iptv.is74.ru/minibox/live/10083.m3u8?token=4315b31cee95c311d89d37da07a7fba0&device_id=
+#EXTINF:0, Мульт
+http://api.iptv.is74.ru/minibox/live/861.m3u8?token=4315b31cee95c311d89d37da07a7fba0&device_id=
+#EXTINF:0, TiJi
+http://api.iptv.is74.ru/minibox/live/80.m3u8?token=4315b31cee95c311d89d37da07a7fba0&device_id=
+#EXTINF:0, Gulli Girl
+http://api.iptv.is74.ru/minibox/live/81.m3u8?token=4315b31cee95c311d89d37da07a7fba0&device_id=
+#EXTINF:0, В гостях у сказки HD
+http://api.iptv.is74.ru/minibox/live/10086.m3u8?token=4315b31cee95c311d89d37da07a7fba0&device_id=
+#EXTINF:0, Капитан Фантастика HD
+http://api.iptv.is74.ru/minibox/live/1539.m3u8?token=4315b31cee95c311d89d37da07a7fba0&device_id=
+#EXTINF:0, О!
+http://api.iptv.is74.ru/minibox/live/1721.m3u8?token=4315b31cee95c311d89d37da07a7fba0&device_id=
